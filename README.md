@@ -5,3 +5,5 @@
 2. 소스 다운로드 후 npm install 실행(node_modules 설치)
 
 3. 소스 실행은 터미널 창에서 npm run start
+
+4. <https://hyundai-sangho.github.io/food_worldcup_react.js/>
