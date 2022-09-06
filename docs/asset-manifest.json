@@ -1,14 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.47c0164d.js",
-    "static/media/ramen.jpg": "/static/media/ramen.419ee0976bbd8c18f09c.jpg",
-    "static/media/pasta.jpg": "/static/media/pasta.db1c5adf18a44310c4f5.jpg",
-    "static/media/burger.jpg": "/static/media/burger.2b3204ef0ebb5592f486.jpg",
-    "static/media/fried-rice.jpg": "/static/media/fried-rice.c9758f843b27215e57a5.jpg",
+    "main.js": "/static/js/main.6aa81442.js",
     "index.html": "/index.html",
-    "main.47c0164d.js.map": "/static/js/main.47c0164d.js.map"
+    "main.6aa81442.js.map": "/static/js/main.6aa81442.js.map"
   },
   "entrypoints": [
-    "static/js/main.47c0164d.js"
+    "static/js/main.6aa81442.js"
   ]
 }
