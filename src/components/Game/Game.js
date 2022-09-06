@@ -4,19 +4,19 @@ import { FlexBox } from "./style";
 const items = [
   {
     name: "햄버거",
-    src: require("../../img/burger.jpg"),
+    src: require("img/burger.jpg"),
   },
   {
     name: "볶음밥",
-    src: require("../../img/fried-rice.jpg"),
+    src: require("img/fried-rice.jpg"),
   },
   {
     name: "파스타",
-    src: require("../../img/pasta.jpg"),
+    src: require("img/pasta.jpg"),
   },
   {
     name: "라면",
-    src: require("../../img/ramen.jpg"),
+    src: require("img/ramen.jpg"),
   },
 ];
 
